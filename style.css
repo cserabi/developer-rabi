@@ -28,7 +28,20 @@ section
   border-radius:5px;
   font-weight: 700;
 }
+.long-way
+{
+  margin-top: 100px;
+}
 .long-way span
 {
   color: #FE6415;
+}
+.long-way .link-button-resume
+{
+  background-image: linear-gradient(rgb(255, 72, 0),red);
+  text-decoration: none;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  font-weight: 600;
 }
