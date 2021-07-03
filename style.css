@@ -93,8 +93,34 @@ width:82%;
   border-image-slice: 1;
 }
 
-
-footer p
+.footer-part
 {
-  text-align: center;
+  width:100%;
+  height:55px;
+  background-color: black;
+}
+
+
+.copyrights
+{
+  width:70%;
+
+}
+.copyrights p
+{
+  float:left;
+  color:white;
+  margin-left:45%;
+}
+
+.social-icon
+{
+  width:30%;
+  float:right;
+
+}
+.social-icon img{
+  width:45px;
+  height:45px;
+  margin-right:5px
 }
