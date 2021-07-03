@@ -28,3 +28,7 @@ section
   border-radius:5px;
   font-weight: 700;
 }
+.long-way span
+{
+  color: #FE6415;
+}
